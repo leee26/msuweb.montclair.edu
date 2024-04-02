@@ -1,0 +1,27 @@
+<html>
+<head>
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+  <title>Webography Project</title>
+</head> 
+<body style=“background-color:#ffc0cb;" alink="#ee0000" link="#0000ee" vlink="551a8b”>
+<div style="text-align:left;">Esther Lee<br />
+CSIT 100-37<br>
+Webography Project<br />
+March 19, 2024
+</div>
+<hr style="width:100%;height:2px;" />
+<p style="font:italic bold 36px Cambria;text-align:center;color:#8b4513;">Technology in Speech Therapy</p>
+<hr style="wdith:100%;height:2px;" />
+<p style="font:italic bold 20px Cambria;color:#8b4513;">Subtopics:</p>
+<ol style="font:italic bold 20px Cambria;color:#8b4513;">
+  <li><a href="subtopic1.html"></a></li>
+  <li><a href="subtopic2.html"></a></li>
+  <li><a href="subtopic3.html"></a></li>
+</ol>
+<hr style="width:100%;height:2px;" />
+<p>
+<a href="paper.doc">Paper</a></span><br />
+<a href="presentation.ppt">Presentation</a>
+</p>
+</body>
+</html>
